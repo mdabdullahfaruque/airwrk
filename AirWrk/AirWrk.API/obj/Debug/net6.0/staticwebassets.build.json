@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qw+uXRrDgbyLDKpdzgCw2zNxEmC0COMSGDfUP5e8OqM=",
+  "Source": "AirWrk.API",
+  "BasePath": "_content/AirWrk.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
